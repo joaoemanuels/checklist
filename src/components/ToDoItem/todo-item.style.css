@@ -17,6 +17,7 @@
     gap: 8px;
     align-items: center;
 }
+
 .todo-item.completed .details {
     text-decoration: line-through;
 }
@@ -51,6 +52,6 @@
     margin: 0
 }
 
-.todo-item .actions .btn:hover svg path  {
+.todo-item .actions .btn:hover svg path {
     fill: #504D4D;
 }
